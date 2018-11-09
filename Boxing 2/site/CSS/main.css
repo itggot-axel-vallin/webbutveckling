@@ -1,0 +1,39 @@
+.redbox{
+    background-color: red;
+    height: 100px;
+}
+
+.redbox1{
+    background-color: red;
+    
+    height: 100px;
+    margin-left: 100px;
+}
+
+.redbox2{
+    background-color: red;
+    
+    height: 100px;
+    margin-left: 200px;
+}
+
+.redbox3{
+    background-color: red;
+    
+    height: 100px;
+    margin-left: 300px;
+}
+
+.redbox4{
+    background-color: red;
+    
+    height: 100px;
+    margin-left: 400px;
+}
+
+.redbox5{
+    background-color: red;
+    
+    height: 100px;
+    margin-left: 500px;
+}

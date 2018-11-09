@@ -1,0 +1,63 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+}
+
+
+
+.wrapper{
+    display: grid;
+    grid-template-rows: 15% 70% 15%;
+    height:100%;
+        
+}
+header{
+    background-color: red;
+    grid-row: span 1;
+}
+
+.wrapper1{
+    display: grid;
+    grid-template-columns:45% 20% 35%;
+    grid-template-rows: 50% 50%;
+    margin:10px 20% 10px 20%;
+
+}
+
+main{
+    background-color: yellow;
+    grid-row: span 1;
+    grid-column: span 2;
+    margin: 10px;
+}
+    
+
+aside{
+    grid-column: span 1;
+    grid-row: span 1;
+    background-color: pink;
+    margin: 10px;
+    
+}
+
+.twin{
+    grid-column: span 1;
+    background-color: green;
+    grid-row: span 1;  
+    margin: 10px;
+}
+.twin1{
+    grid-column: span 2;
+    background-color: green;
+    grid-row: span 1;
+    margin: 10px;
+
+}
+footer{
+    grid-column: span 1;
+    grid-row: span 1;
+    background-color:purple;
+    margin-top: 10px;
+}
+

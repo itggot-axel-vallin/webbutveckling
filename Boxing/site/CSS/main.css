@@ -1,0 +1,18 @@
+.redbox{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+
+}
+
+.yellowbox{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}
+
+.greenbox{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
